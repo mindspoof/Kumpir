@@ -1,0 +1,77 @@
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\Potato\Potato\bin\Debug\Potato.exe.config
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\Potato\Potato\bin\Debug\Potato.exe
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\Potato\Potato\bin\Debug\Potato.pdb
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\Potato\Potato\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\Potato\Potato\bin\Debug\NHttp.dll
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\Potato\Potato\bin\Debug\SharpCifs.dll
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\Potato\Potato\bin\Debug\NHttp.pdb
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\Potato\Potato\bin\Debug\SharpCifs.pdb
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\Potato\Potato\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\Potato\Potato\obj\Debug\Potato.csprojResolveAssemblyReference.cache
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\Potato\Potato\obj\Debug\Potato.exe
+J:\derby\Potato_DERBYCON_EDITION_release_justbytes\Potato\Potato\obj\Debug\Potato.pdb
+C:\Users\Neil\Downloads\RottenPotato-master\Potato\Potato\bin\Debug\Potato.exe.config
+C:\Users\Neil\Downloads\RottenPotato-master\Potato\Potato\bin\Debug\Potato.exe
+C:\Users\Neil\Downloads\RottenPotato-master\Potato\Potato\bin\Debug\Potato.pdb
+C:\Users\Neil\Downloads\RottenPotato-master\Potato\Potato\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Neil\Downloads\RottenPotato-master\Potato\Potato\bin\Debug\NHttp.dll
+C:\Users\Neil\Downloads\RottenPotato-master\Potato\Potato\bin\Debug\SharpCifs.dll
+C:\Users\Neil\Downloads\RottenPotato-master\Potato\Potato\bin\Debug\NHttp.pdb
+C:\Users\Neil\Downloads\RottenPotato-master\Potato\Potato\bin\Debug\SharpCifs.pdb
+C:\Users\Neil\Downloads\RottenPotato-master\Potato\Potato\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\Neil\Downloads\RottenPotato-master\Potato\Potato\obj\Debug\Potato.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Downloads\RottenPotato-master\Potato\Potato\obj\Debug\Potato.exe
+C:\Users\Neil\Downloads\RottenPotato-master\Potato\Potato\obj\Debug\Potato.pdb
+C:\Users\Neil\Downloads\Rotten_Potato_Exploit_BackUp\Potato\Potato\bin\Debug\Potato.exe.config
+C:\Users\Neil\Downloads\Rotten_Potato_Exploit_BackUp\Potato\Potato\bin\Debug\Potato.exe
+C:\Users\Neil\Downloads\Rotten_Potato_Exploit_BackUp\Potato\Potato\bin\Debug\Potato.pdb
+C:\Users\Neil\Downloads\Rotten_Potato_Exploit_BackUp\Potato\Potato\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Neil\Downloads\Rotten_Potato_Exploit_BackUp\Potato\Potato\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\Neil\Downloads\Rotten_Potato_Exploit_BackUp\Potato\Potato\obj\Debug\Potato.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Downloads\Rotten_Potato_Exploit_BackUp\Potato\Potato\obj\Debug\Potato.exe
+C:\Users\Neil\Downloads\Rotten_Potato_Exploit_BackUp\Potato\Potato\obj\Debug\Potato.pdb
+C:\Users\Neil\Documents\Visual Studio 2017\Projects\Rotten_Potato_Exploit\Potato\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Neil\Documents\Visual Studio 2017\Projects\Rotten_Potato_Exploit\Potato\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\Neil\Documents\Visual Studio 2017\Projects\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Documents\Visual Studio 2017\Projects\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.csproj.CoreCompileInputs.cache
+C:\Users\Neil\Documents\Visual Studio 2017\Projects\Rotten_Potato_Exploit\Potato\bin\Debug\NtApiDotNet.xml
+C:\Users\Neil\Documents\Visual Studio 2017\Projects\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.Properties.Resources.resources
+C:\Users\Neil\Documents\Visual Studio 2017\Projects\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.csproj.GenerateResource.Cache
+C:\Users\Neil\Documents\Visual Studio 2017\Projects\Rotten_Potato_Exploit\Potato\bin\Debug\out.exe.config
+C:\Users\Neil\Documents\Visual Studio 2017\Projects\Rotten_Potato_Exploit\Potato\bin\Debug\out.exe
+C:\Users\Neil\Documents\Visual Studio 2017\Projects\Rotten_Potato_Exploit\Potato\bin\Debug\out.pdb
+C:\Users\Neil\Documents\Visual Studio 2017\Projects\Rotten_Potato_Exploit\Potato\obj\Debug\out.exe
+C:\Users\Neil\Documents\Visual Studio 2017\Projects\Rotten_Potato_Exploit\Potato\obj\Debug\out.pdb
+C:\Users\Neil\Documents\Visual Studio 2017\Projects\Rotten_Potato_Exploit\Potato\bin\Debug\NtApiDotNet.dll
+D:\New_PC_Backups\Rotten_Potato_Exploit\Potato\bin\Debug\base.exe.config
+D:\New_PC_Backups\Rotten_Potato_Exploit\Potato\bin\Debug\base.exe
+D:\New_PC_Backups\Rotten_Potato_Exploit\Potato\bin\Debug\base.pdb
+D:\New_PC_Backups\Rotten_Potato_Exploit\Potato\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\New_PC_Backups\Rotten_Potato_Exploit\Potato\bin\Debug\NtApiDotNet.dll
+D:\New_PC_Backups\Rotten_Potato_Exploit\Potato\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\New_PC_Backups\Rotten_Potato_Exploit\Potato\bin\Debug\NtApiDotNet.xml
+D:\New_PC_Backups\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.csprojResolveAssemblyReference.cache
+D:\New_PC_Backups\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.Properties.Resources.resources
+D:\New_PC_Backups\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.csproj.GenerateResource.Cache
+D:\New_PC_Backups\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.csproj.CoreCompileInputs.cache
+D:\New_PC_Backups\Rotten_Potato_Exploit\Potato\obj\Debug\base.exe
+D:\New_PC_Backups\Rotten_Potato_Exploit\Potato\obj\Debug\base.pdb
+C:\Users\Neil\Documents\VS_Projects\Rotten_Potato_Exploit\Potato\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Neil\Documents\VS_Projects\Rotten_Potato_Exploit\Potato\bin\Debug\NtApiDotNet.dll
+C:\Users\Neil\Documents\VS_Projects\Rotten_Potato_Exploit\Potato\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\Neil\Documents\VS_Projects\Rotten_Potato_Exploit\Potato\bin\Debug\NtApiDotNet.xml
+C:\Users\Neil\Documents\VS_Projects\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.csprojResolveAssemblyReference.cache
+C:\Users\Neil\Documents\VS_Projects\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.Properties.Resources.resources
+C:\Users\Neil\Documents\VS_Projects\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.csproj.GenerateResource.Cache
+C:\Users\Neil\Documents\VS_Projects\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.csproj.CoreCompileInputs.cache
+C:\Users\Neil\Documents\VS_Projects\Rotten_Potato_Exploit\Potato\bin\Debug\kumpir.exe.config
+C:\Users\Neil\Documents\VS_Projects\Rotten_Potato_Exploit\Potato\bin\Debug\kumpir.exe
+C:\Users\Neil\Documents\VS_Projects\Rotten_Potato_Exploit\Potato\bin\Debug\kumpir.pdb
+C:\Users\Neil\Documents\VS_Projects\Rotten_Potato_Exploit\Potato\obj\Debug\kumpir.exe
+C:\Users\Neil\Documents\VS_Projects\Rotten_Potato_Exploit\Potato\obj\Debug\kumpir.pdb
+C:\Users\sKyWiPer\Documents\Visual Studio 2015\Projects\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.csprojAssemblyReference.cache
+C:\Users\sKyWiPer\Documents\Visual Studio 2015\Projects\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.Properties.Resources.resources
+C:\Users\sKyWiPer\Documents\Visual Studio 2015\Projects\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.csproj.GenerateResource.cache
+C:\Users\sKyWiPer\Documents\Visual Studio 2015\Projects\Rotten_Potato_Exploit\Potato\obj\Debug\Potato.csproj.CoreCompileInputs.cache
+C:\Users\sKyWiPer\Documents\Visual Studio 2015\Projects\Rotten_Potato_Exploit\Potato\obj\Debug\kumpir.exe
+C:\Users\sKyWiPer\Documents\Visual Studio 2015\Projects\Rotten_Potato_Exploit\Potato\obj\Debug\kumpir.pdb
